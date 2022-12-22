@@ -1,2 +1,2 @@
-# Electric-Energy-Consumption-Data
-A Dataset on energy consumption  Based on Socio-economic Features
+# Energy Consumption Data 
+A dataset on energy consumption in Greece, based on socio-economic features
