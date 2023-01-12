@@ -15,3 +15,6 @@ Questionnaire with four categories of questions:
 Extracted information:
 - Weather data
 
+## Survey's Link
+
+Our survey can be found in the following link: https://docs.google.com/forms/d/1s2QFL3QQlofnWWxkPP0Pd8Ex9qy-lBXTdpKjoIj1MrM/viewform?edit_requested=true 
