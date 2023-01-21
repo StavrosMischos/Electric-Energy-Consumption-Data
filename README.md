@@ -18,3 +18,4 @@ Extracted information:
 ## Survey's Link
 
 Our survey can be found in the following link: https://docs.google.com/forms/d/1s2QFL3QQlofnWWxkPP0Pd8Ex9qy-lBXTdpKjoIj1MrM/viewform?edit_requested=true 
+It is also available in this repository as a pdf file.
